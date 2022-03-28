@@ -6,6 +6,12 @@ click [here](https://chengzhy.github.io/) to visit my blog.
 
 
 
+## Issues
+
+Issues中带有`gitalk`标签的issue对应的是issue中链接的博客文章所有的评论，每篇文章都会有一个专属的issue来存放对该文章的所有评论。
+
+
+
 ## LICENSE
 
 [MIT LICENSE](https://github.com/chengzhy/chengzhy.github.io/blob/main/LICENSE)
