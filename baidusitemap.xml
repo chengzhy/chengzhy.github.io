@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://chengzhy.github.io/2022/spring-cloud-introduction/</loc>
+    <lastmod>2022-05-09</lastmod>
+  </url>
+  <url>
+    <loc>https://chengzhy.github.io/2022/hexo-seo-note/</loc>
+    <lastmod>2022-05-06</lastmod>
+  </url>
+  <url>
     <loc>https://chengzhy.github.io/2022/subsequence-problem-leetcode-classic-problems/</loc>
     <lastmod>2022-04-28</lastmod>
   </url>
@@ -31,10 +39,6 @@
   <url>
     <loc>https://chengzhy.github.io/2022/what-is-kubernetes/</loc>
     <lastmod>2022-04-24</lastmod>
-  </url>
-  <url>
-    <loc>https://chengzhy.github.io/2022/hexo-seo-note/</loc>
-    <lastmod>2022-04-14</lastmod>
   </url>
   <url>
     <loc>https://chengzhy.github.io/2022/complete-knapsack-problem-solving-method/</loc>
