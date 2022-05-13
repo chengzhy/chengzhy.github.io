@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://chengzhy.github.io/2022/solve-maven-cannot-download-dependencies/</loc>
+    <lastmod>2022-05-13</lastmod>
+  </url>
+  <url>
     <loc>https://chengzhy.github.io/2022/spring-cloud-introduction/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-05-12</lastmod>
   </url>
   <url>
     <loc>https://chengzhy.github.io/2022/hexo-seo-note/</loc>
