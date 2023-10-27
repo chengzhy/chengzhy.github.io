@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://chengzhy.github.io/2023/build-sftp-server-on-linux-guide/</loc>
+    <lastmod>2023-10-27</lastmod>
+  </url>
+  <url>
     <loc>https://chengzhy.github.io/2023/docker-container-restrictions/</loc>
     <lastmod>2023-10-06</lastmod>
   </url>
